@@ -3,9 +3,10 @@
 # <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width =30px></picture> Mani
 
 [![Github](https://img.shields.io/github/followers/manixko?label=Follow&style=social)](https://github.com/manixko)
+![Profile Views](https://komarev.com/ghpvc/?username=manixko&style=flat)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:manikokhaei86@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](#)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://pytopia.ai)](#)
+[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white)](#)
 
 ## 🖥 Skills
 
