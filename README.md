@@ -8,15 +8,17 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](#)
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white)](#)
 
-## 🖥 Skills
-
-- Python
-- Django
-- Mikrotik
-
 ## ⚙️ Tech Stack
 
-![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat-square&logo=linux&logoColor=white&color=353535) ![MikroTik](https://img.shields.io/badge/-MikroTik-05122A?style=flat-square&logo=mikrotik&logoColor=white&color=353535) ![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git&logoColor=white&color=353535) ![Bootstrap](https://img.shields.io/badge/-Django-05122A?style=flat-square&logo=Django&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) 
+
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white)   ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)  ![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white) 
+
+![Mikrotik](https://img.shields.io/badge/-Mikrotik-293239?style=flat&logo=mikrotik&logoColor=white) ![Wireshark Badge](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=fff&style=flat) 
+
+![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-000000?logo=cursor-ai-white) ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
 
 ## 📊 GitHub Stats
 
